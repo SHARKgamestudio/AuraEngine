@@ -2,7 +2,7 @@
 
 # AuraEngine
 
-✧ Python picture encoder/decoder for NumWorks ✧
+✧ Python images encoder/decoder for NumWorks ✧
 
 ❱ Aura allows encoding images to Python files & decoding them on the NumWorks.          
 Everything uses Python, making it a perfect solution for building programs on top of it.
