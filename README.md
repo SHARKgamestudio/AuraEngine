@@ -11,6 +11,7 @@ Everything uses Python, making it a perfect solution for building programs on to
 - Encode images of any size or color range.
 - Decode images up to 64x64 pixels.
 - Decode multiple images from Python files.
+  
 ↻ More Features are planned for future updates.
 ## Usage/Examples
 
